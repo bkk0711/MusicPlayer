@@ -25,6 +25,11 @@ $(function()
 		name: "OK",
 		url: "https://data20.chiasenhac.com/downloads/2057/5/2056089-b7427c2b/m4a/Ok%20-%20Binz.m4a",
 		picture: "https://data.chiasenhac.com/data/cover/115/114164.jpg"
+	}, {
+    		artist: "MTP",
+    		name: "Hãy Trao Cho Anh",
+    		url: "https://data25.chiasenhac.com/downloads/2063/5/2062795-297b7a8e/m4a/Hay%20Trao%20Cho%20Anh%20-%20Son%20Tung.m4a",
+    		picture: "https://isalon.vn/tin-tuc/wp-content/uploads/2019/07/123.jpg"
 	}];
 	
 	function shuffle(a) {
